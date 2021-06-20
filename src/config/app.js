@@ -11,11 +11,11 @@ export default {
     minBuyAmountInBNB: 0.01,
 
     // contract address
-    contractAddress: "0xc3B24078182533C2aBE5e84F8d7aB4e4644E08F3",
+    contractAddress: "0x24e3b9fed6f09751286e26eb21127a53fc3d8c60",
 
     //supportedChainId: 0x38 // 56 is Binance Smart chain
 
     // comment this if not on testnet
-    supportedChainId: 0x2a,//kovan for testing
+    supportedChainId: 0x61,//kovan for testing
 
 }
