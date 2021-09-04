@@ -7,6 +7,8 @@ export default {
     pricePerAirdropInBNB: 0.002,
 
     numberOfTokensPerBNB: 90_000_000_000,
+    
+    minBuyAmountInBNB: 0.01,
 
     minBuyAmountInBNB: 0.01,
 
